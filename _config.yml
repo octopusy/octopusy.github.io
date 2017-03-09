@@ -1,0 +1,105 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Octopus's Tech Blog
+email: 583206137@qq.com
+description: > # this means to ignore newlines until "baseurl:"
+  专注于Android软件开发的码农,带你深入分析Android系统.目前的专题有Android编译系统,Binder机制，单元测试，深入理解Activity启动流程。
+baseurl: "https://octopusy.github.io/" # the subpath of your site, e.g. /blog
+url: "https://octopusy.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: octopus
+github_username:  octopus
+
+## Gem
+gems:
+  - jekyll-paginate
+  - jekyll-geo-pattern
+  - rouge
+  - kramdown
+  - jekyll-github-metadata
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+
+source:      .
+destination: ./_site
+
+quiet:    false
+defaults: []
+
+# More › http://kramdown.gettalong.org/quickref.html
+# Options › http://kramdown.gettalong.org/options.html
+kramdown:
+  input:          GFM
+  # https://github.com/jekyll/jekyll/pull/4090
+  syntax_highlighter: rouge
+
+  # Rouge Highlighter in Kramdown › http://kramdown.gettalong.org/syntax_highlighter/rouge.html
+  # span, block element options fall back to global
+  syntax_highlighter_opts:
+    # Rouge Options › https://github.com/jneen/rouge#full-options
+    css_class: 'highlight'
+    #line_numbers: true # bad idea, spans don't need linenos and would inherit this option
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1  
+
+# duoshuo
+#disque: my_disque_settings # ex. httpdongchuangithubio.disqus.com
+
+duoshuo :
+  short_name : cloudchou2
+
+lean_cloud :
+  app_id   :  hQbdf5f1KrAGwtP4cXqprx7y-gzGzoHsz
+  app_key  :  7F5Wwjbvx11t0bBmyIgmtpy5
+
+# Pagination
+paginate: 8
+paginate_path: 'page:num'
+
+# Navigation. If you do not like these modules, just remove them :D
+navs:
+  -
+    href: /
+    label: 首页
+
+  -
+    href: /bloglist
+    label: 博客纪事
+
+  -
+    href: /about
+    label: 关于
+  -
+    href: /feed.xml
+    label: 订阅
