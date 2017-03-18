@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-title: Octopus's Tech Blog 
+title: 阿欢哥 
 description: > # this means to ignore newlines until "baseurl:"
   专注于Android软件开发的码农,带你深入分析Android系统.目前的专题有Android编译系统,Binder机制，单元测试，深入理解Activity启动流程。
 baseurl: "https://octopusy.github.io/" # the subpath of your site, e.g. /blog
@@ -10,7 +10,7 @@ twitter_username: octopus
 github_username:  octopus
 
 favicon: /favicon.ico
-timezone: Asia/Shanghai
+timezone: Asia/ShenZhen
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
@@ -38,9 +38,9 @@ navs:
     href: /wiki/
     label: 维基
 
-  -
-    href: /links/
-    label: 链接
+  #-
+  #   href: /links/
+  #  label: 链接
 
   -
     href: /about/
@@ -83,11 +83,7 @@ repository: octopusy/octopusy.github.io
 #      Socials     #
 # ---------------- #
 github_username: octopusy
-douban_username: freedim
-facebook_username: octopus
-weibo_username: octopus
-zhihu_username: octopus
-twitter_username: octopus
+csdn_username: zhangyang5547662
 
 # ---------------- #
 #      Comments    #

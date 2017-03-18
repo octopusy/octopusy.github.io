@@ -14,14 +14,14 @@ keywords: Markdown
 ### 超链接
 
 ```
-[靠谱-ing](http://mazhuang.org)
+[靠谱-ing](http://octopusy.github.io.org)
 
-<http://mazhuang.org>
+<http://octopusy.github.io.org>
 ```
 
-[靠谱-ing](http://mazhuang.org)  
+[靠谱-ing](http://octopusy.github.io.org)
 
-<http://mazhuang.org>
+<http://octopusy.github.io.org>
 
 ### 列表
 

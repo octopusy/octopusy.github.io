@@ -5,7 +5,7 @@ category: blog
 description: 写博客这个这么古老的行为，还有必要拿出来说吗，我看有。
 ---
 
-## 今日对我爱搭不理，明日让你高攀不起！
+## First Blog！
 
 > 写博客这个不知道几个“互联网世纪”前的东西，现在还有必要拿出来说吗？不想用太多的理论去说这个命题，先看看两个最近对我影响比较大的两个博客：
 
@@ -84,28 +84,5 @@ GitHub是一个伟大的产品，[GitHub Pages][]是他伟大的一部分，GitH
 
 Disqus是一个社会化的评论解决方案，请允许我使用这个烂透了的词，调用它的接口非常简单，在自己的页面加载他的一段JS代码即可，如果别人注册了Disqus，那么就可以方便的留言，交流，一处登录，处处方便，而且Disqus也提供了一些spam等策略，不用自己操心了，并且可以和一些现有的博客系统很好的转换对接。越来越多的网站开始使用Disqus的服务了，这是一个非常不错的趋势，Jekyll配合[Disqus][]实在是完美了。我别无所求了。
 
-## TL;DR
-
-写到这里，基本的点已经介绍完毕，看看Jekyll生成的博客页面，我心满意足，虽然文笔很烂，语句多不通顺，但是这是一个新的开始了，我觉得心灵都纯洁了不少，这不是发一条微博什么能带来的快乐。
 
 对于那些对上述技术不是很熟悉的童鞋来说，搭建起来可能还是需要花费些功夫的，我会在后面写一篇专门的教程，给有需要的人，等不及了的，可以自己研究下，**生命在于折腾**。
-
-[BeiYuu]:    http://beiyuu.com  "BeiYuu"
-[Steve Losh]:   http://stevelosh.com/   "Steve Losh"
-[Derek Sivers]: http://sivers.org/  "Derek Sivers"
-[GoDaddy]:  http://godaddy.com  "Godaddy"
-[GitHub]: http://github.com "Github:social coding"
-[Jekyll]:   https://github.com/mojombo/jekyll
-[Disqus]: http://disqus.com "Disqus"
-[DNSPod]: http://dnspod.cn "DNSPod"
-[GitHub Pages]: http://pages.github.com "GitHub Pages"
-[WordPress]:    http://wordpress.org    "WordPress"
-[1]:    {{ page.url}}  ({{ page.title }})
-[2]:  http://stevelosh.com/blog/2011/09/writing-vim-plugins/ "Write Vim Plugins"
-[3]: http://sivers.org/sharing   "The co-op business model: share whatever you've got"
-[4]: http://artificialrecords.com
-[5]: http://sivers.org/below-average    "probably below average"
-[6]: http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/    "怎样花两年时间去面试一个人"
-[7]: http://progit.org/book/zh/    "Pro Git"
-[8]: http://markdown.tw/    "Markdown语法"
-[9]: http://www.cnblogs.com/bangerlee/archive/2011/09/11/2173632.html   "Why I Blog翻译版"

@@ -13,4 +13,4 @@ permalink: /links/
 * [Connie酱](https://connie99.github.io)
 * [只宁静不致远](http://zxning.github.io/)
 * [Blog Something](http://chenxiaoyoyo.github.io)
-* [码志](http://mazhuang.org)
+* [码志](http://octopusy.github.io.org)
