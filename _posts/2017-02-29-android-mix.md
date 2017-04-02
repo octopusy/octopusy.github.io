@@ -1,3 +1,4 @@
+## Android Studio 混淆规则
 首先要在build.gradle中开启混淆，也就是minifyEnabled true，我用的build.gradle具体如下所示：
 
 def releaseTime() {
