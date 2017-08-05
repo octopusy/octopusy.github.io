@@ -264,7 +264,7 @@ description: android 混淆规则示例
     }
     -keep enum org.greenrobot.eventbus.ThreadMode { *; }
 
-##### Facebook
+#### Facebook
 
     -keep class com.facebook.** {*;}
     -keep interface com.facebook.** {*;}
@@ -284,7 +284,7 @@ description: android 混淆规则示例
     -keep enum com.facebook.fresco.** {*;}
 
 #### 高德相关依赖
-####集合包:3D地图3.3.2 导航1.8.0 定位2.5.0
+#### 集合包:3D地图3.3.2 导航1.8.0 定位2.5.0
 
     -dontwarn com.amap.api.**
     -dontwarn com.autonavi.**
