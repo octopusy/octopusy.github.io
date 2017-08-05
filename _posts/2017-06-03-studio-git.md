@@ -1,3 +1,11 @@
+---
+layout:     post
+title:      android 混淆
+category:   [博客]
+description: 博客排版标准
+keywords: android, 博客
+---
+
 ## 全面介绍Android Studio中Git的使用
 
 >	前言：本篇博文将记录如何在Android Studio中使用Git版本控制系统，这货在草稿箱里已经放了起码有两个月了吧，老躺着想起来了心里不舒服，索性这两天抽了些时间，整理出来算了，最近气温下降的厉害，发现自己越来越懒了。难过

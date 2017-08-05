@@ -1,3 +1,11 @@
+---
+layout:     post
+title:      android 混淆
+category:   [博客]
+description: 博客排版标准
+keywords: android, 博客
+---
+
 ## Android 6动态权限申请
 
 > 什么情况下需要动态获取权限：

@@ -1,11 +1,13 @@
 ---
 layout:     post
 title:      android 混淆
-category:   android
+category:   [android,技术]
 description: android 混淆规则示例
+keywords: android, 混淆
 ---
 
 ## Android Studio 混淆规则
+
 
 
   > 首先要在build.gradle中开启混淆，也就是minifyEnabled true，我用的build.gradle具体如下所示：
