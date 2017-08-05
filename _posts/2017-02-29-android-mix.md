@@ -43,6 +43,7 @@ description: android 混淆规则示例
  * 上面注释中写到proguard-Android.txt文件，这是系统默认的混淆文件，具体在../sdk/tools/proguard/目录下，其中包含了android最基本的混淆，一般不需要改动，我们需要配置的是项目中app下的proguard-rules.pro文件，在此提供一份混淆模板。
 
 ### 基本设置
+
  >对于一些基本指令的添加
  * 代码混淆压缩比，在0~7之间，默认为5，一般不做修改
 
@@ -86,6 +87,7 @@ description: android 混淆规则示例
 
 
  ### 公共设置
+
 
  * 保留我们使用的四大组件，自定义的Application等等这些类不被混淆，因为这些子类都有可能被外部调用
 
@@ -199,7 +201,8 @@ description: android 混淆规则示例
      }
 
  ### 特殊设置
- -----------处理实体类---------------
+
+     处理实体类
 
  在开发的时候我们可以将所有的实体类放在一个包内，这样我们写一次混淆就行了。
 
@@ -216,29 +219,32 @@ description: android 混淆规则示例
 
  #### AndroidEventBus
 
-    -keep class org.simple.** { *; }
-    -keep interface org.simple.** { *; }
-    -keepclassmembers class * {
-        @org.simple.eventbus.Subscriber <methods>;
-    }
+        -keep class org.simple.** { *; }
+        -keep interface org.simple.** { *; }
+        -keepclassmembers class * {
+            @org.simple.eventbus.Subscriber <methods>;
+        }
 
  #### 百度地图（jar包换成自己的版本，记得签名要匹配）
 
-    -libraryjars libs/baidumapapi_v2_1_3.jar
-    -keep class com.baidu.** {*;}
-    -keep class vi.com.** {*;}
-    -keep class com.sinovoice.** {*;}
-    -keep class pvi.com.** {*;}
-    -dontwarn com.baidu.**
-    -dontwarn vi.com.**
-    -dontwarn pvi.com.**
+
+        -libraryjars libs/baidumapapi_v2_1_3.jar
+        -keep class com.baidu.** {*;}
+        -keep class vi.com.** {*;}
+        -keep class com.sinovoice.** {*;}
+        -keep class pvi.com.** {*;}
+        -dontwarn com.baidu.**
+        -dontwarn vi.com.**
+        -dontwarn pvi.com.**
 
  #### Bugly
 
-    -dontwarn com.tencent.bugly.**
-    -keep class com.tencent.bugly.** {*;}
+
+     -dontwarn com.tencent.bugly.**
+     -keep class com.tencent.bugly.** {*;}
 
  #### ButterKnife
+
 
     -keep class butterknife.** { *; }
     -dontwarn butterknife.internal.**
