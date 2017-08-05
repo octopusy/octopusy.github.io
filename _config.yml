@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-title: 阿欢哥 
+title: 智能作坊
 description: > # this means to ignore newlines until "baseurl:"
   专注于Android软件开发的码农,带你深入分析Android系统.目前的专题有Android编译系统,Binder机制，单元测试，深入理解Activity启动流程。
 baseurl: "https://octopusy.github.io/" # the subpath of your site, e.g. /blog
@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: octopus
+author: Richard
 organization: XGD 
 location: ShenZhen, China
 email: 583206137@qq.com

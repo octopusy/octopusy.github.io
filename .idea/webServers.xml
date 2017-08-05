@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8636cec2-dbd1-4fac-9549-0d8fbf10a9bd" name="https://github.com/octopusy/octopusy.github.io.git" url="https://github.com/octopusy/octopusy.github.io.git">
+        <fileTransfer host="https://github.com/octopusy/octopusy.github.io.git" port="21" username="">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
