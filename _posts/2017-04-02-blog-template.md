@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      android 混淆
+title:      博客排版
 category:   [博客]
 description: 博客排版标准
 keywords: android, 博客

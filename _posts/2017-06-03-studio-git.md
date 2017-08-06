@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      android 混淆
-category:   [博客]
-description: 博客排版标准
-keywords: android, 博客
+title:      android-studio git使用
+category:   [工具]
+description: 工具使用
+keywords: android, 工具
 ---
 
 ## 全面介绍Android Studio中Git的使用

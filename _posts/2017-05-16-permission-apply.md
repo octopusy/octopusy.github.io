@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      android 混淆
-category:   [博客]
-description: 博客排版标准
-keywords: android, 博客
+title:      android 动态权限申请
+category:   [权限]
+description: 动态权限申请
+keywords: android,动态权限
 ---
 
 ## Android 6动态权限申请
