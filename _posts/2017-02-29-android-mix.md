@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      android 混淆
-category:   [android]
+category:   [Android]
 description: android 混淆规则
 keywords: android, 混淆
 ---
