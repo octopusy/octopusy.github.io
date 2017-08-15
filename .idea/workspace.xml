@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43a1ea45-1ebf-45b0-a275-4febfe9a4af4" name="Default" comment="修改文章内容&#10;&#10;修改文章内容&#10;">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-02-29-android-mix.md" afterPath="$PROJECT_DIR$/_posts/2017-02-29-android-mix.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-04-02-blog-template.md" afterPath="$PROJECT_DIR$/_posts/2017-04-02-blog-template.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-04-27-thinking.md" afterPath="$PROJECT_DIR$/_posts/2017-04-27-thinking.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-05-16-permission-apply.md" afterPath="$PROJECT_DIR$/_posts/2017-05-16-permission-apply.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-06-03-studio-git.md" afterPath="$PROJECT_DIR$/_posts/2017-06-03-studio-git.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-08-06-ai-thinking.md" afterPath="$PROJECT_DIR$/_posts/2017-08-06-ai-thinking.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-08-15-keep-learning.md" afterPath="$PROJECT_DIR$/_posts/2017-08-15-keep-learning.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2016-03-20-sdk-developer.md" />
     </list>
     <ignored path="octopusy.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,21 +22,7 @@
     <favorites_list name="octopusy.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="200">
-                <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -78,6 +56,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-04-02-blog-template.md" />
         <option value="$PROJECT_DIR$/_posts/2017-02-29-android-mix.md" />
         <option value="$PROJECT_DIR$/_posts/template.md" />
+        <option value="$PROJECT_DIR$/_posts/2016-03-20-sdk-developer.md" />
       </list>
     </option>
   </component>
@@ -166,8 +145,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,17 +234,18 @@
       <workItem from="1502711204129" duration="599000" />
       <workItem from="1502758487467" duration="3687000" />
       <workItem from="1502775376076" duration="1527000" />
+      <workItem from="1502797151291" duration="376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25609000" />
+    <option name="totallyTimeSpent" value="25985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1932" height="1048" extended-state="1" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20428422" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20428422" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -308,13 +288,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/about.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -553,18 +526,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="675">
             <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-08-15-keep-learning.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="125">
-            <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -575,7 +536,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="125">
             <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -586,7 +546,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="125">
             <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -597,7 +556,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="125">
             <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -608,7 +566,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="75">
             <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -619,7 +576,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="125">
             <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -635,7 +591,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="175">
             <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -646,7 +601,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="100">
             <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -657,7 +611,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="175">
             <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -668,6 +621,28 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="200">
             <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-08-15-keep-learning.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="15" column="24" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-03-20-sdk-developer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="682">
+            <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
