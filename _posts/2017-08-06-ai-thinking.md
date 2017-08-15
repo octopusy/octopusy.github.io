@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      如何用机器学习和知识图谱来实现商业智能化？
-category:   [android,机器学习]
+category:   [机器学习]
 description: 机器学习
-keywords: android, 机器学习
+keywords:  机器学习
 ---
 
 ## 如何用机器学习和知识图谱来实现商业智能化？

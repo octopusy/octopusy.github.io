@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      android 动态权限申请
-category:   [权限]
+category:   [Android]
 description: 动态权限申请
 keywords: android,动态权限
 ---

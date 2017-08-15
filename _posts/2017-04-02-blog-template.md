@@ -3,7 +3,7 @@ layout:     post
 title:      博客排版
 category:   [博客]
 description: 博客排版标准
-keywords: android, 博客
+keywords:  博客
 ---
 
 

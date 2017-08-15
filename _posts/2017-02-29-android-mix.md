@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      android 混淆
-category:   [android,技术]
-description: android 混淆规则示例
+category:   [android]
+description: android 混淆规则
 keywords: android, 混淆
 ---
 

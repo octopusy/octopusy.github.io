@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      年轻人首要考虑的不应是买房，而是这四个关键词​
-category:   [人生,思考]
-description: 人生,思考
-keywords: 人生,思考
+category:   [思考]
+description: 思考
+keywords: 思考
 ---
 
 ## 傅盛：年轻人首要考虑的不应是买房，而是这四个关键词​
