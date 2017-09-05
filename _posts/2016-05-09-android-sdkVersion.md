@@ -56,7 +56,7 @@ targetSdkVersion 是 Android 提供向前兼容的主要依据，在应用的 ta
 
 ### 总结
 
-  按照上面示例那样配置，三者之间的关系应该是： 
+  按照上面示例那样配置，三者之间的关系应该是：
 
   minSdkVersion (lowest possible) <= targetSdkVersion == compileSdkVersion (latest SDK)
 
