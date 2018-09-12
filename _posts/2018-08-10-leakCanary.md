@@ -36,6 +36,7 @@ LeakCanary是一个专门用来检测内存泄漏的工具，可以帮助我们�
 ### 如何集成
 
 #### 1.在 build.gradle 中添加依赖
+
 ```
 debugCompile 'com.squareup.leakcanary:leakcanary-android:1.5.4'
 releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.4'
@@ -43,6 +44,7 @@ testCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.4'
 ```
 
 #### 2.在应用中引用LeakCanary
+
 ```
 private RefWatcher mRefWatcher;
 
@@ -65,6 +67,7 @@ public static RefWatcher getRefWatcher() {
 
 
 - **在Actvity中引用一个单例来修改TextView控件的值**
+
 ```
 TextView signature = (TextView) findViewById(R.id.signature);
 XXXHelper.getInstance(this).setRetainedTextView(signature);
