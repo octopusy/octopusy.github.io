@@ -19,7 +19,7 @@ LeakCanary是一个专门用来检测内存泄漏的工具，可以帮助我们�
 
 ### LeakCanary 集成检测效果
  
-![AndroidP](https://github.com/octopusy/octopusy.github.io/blob/master/images/Android/leakCanary/page_01.png)![AndroidP](https://github.com/octopusy/octopusy.github.io/blob/master/images/Android/leakCanary/page_02.png)
+![AndroidP](http://pey51suf1.bkt.clouddn.com/page_01.png)![AndroidP](http://pey51suf1.bkt.clouddn.com/page_02.png)
 
 
 ## 为什么需要LeakCanary？
