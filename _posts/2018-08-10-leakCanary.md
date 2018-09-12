@@ -69,7 +69,9 @@ public static RefWatcher getRefWatcher() {
 TextView signature = (TextView) findViewById(R.id.signature);
 XXXHelper.getInstance(this).setRetainedTextView(signature);
 ```
+
 - **单例对象**
+
 ```
 import android.content.Context;
 import android.widget.TextView;
@@ -110,6 +112,7 @@ public class XXXHelper {
 在单例中引用了Activity的Context对象和TextView控件,并长久持有，如果Activity被回收，但是单例中的Context和TextView控件却不会被回收，一直占据在内存中，反复进出几次Activity,就很容易导致内存泄漏了。
 
 - **内存泄漏解决办法**
+
 ```
 // 删除引用, 防止泄露
 public void removeRetained() {
@@ -117,7 +120,9 @@ public void removeRetained() {
     mCtx = null;
 }
 ```
+
 在Activity的destory() 方法中引用removeRetained()方法,释放对象的引用
+
 ```
 @Override protected void onDestroy() {
     super.onDestroy();
@@ -127,6 +132,7 @@ public void removeRetained() {
 ```
 
 - **监控某个可能存在内存泄露的对象**
+
 ```
 AppApplication.getRefWatcher().watch(sLeaky);
 ```
