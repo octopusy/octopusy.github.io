@@ -106,6 +106,6 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, C++, Python, Design Patterns]
-skill_mobile_app_keywords: [Android, Reverse Engineering]
+skill_software_keywords: [Java, C++, Design Patterns]
+skill_mobile_app_keywords: [Android, Kotlin]
 skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]

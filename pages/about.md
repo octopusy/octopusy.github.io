@@ -32,9 +32,9 @@ permalink: /about/
     {% endfor %}
 </div>
 
-#### Windows Developer Keywords
+<!--#### Windows Developer Keywords
 <div class="btn-inline">
     {% for keyword in site.skill_windows_keywords %}
     <button class="btn btn-outline" type="button">{{ keyword }}</button>
     {% endfor %}
-</div>
+</div>-->
