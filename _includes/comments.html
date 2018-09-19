@@ -34,7 +34,7 @@
           <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
         {% endif %}
         {% if site.lazy_load_another and site.duoshuo_username %}
-        <a href="#" class="show_duoshuo_comment" onclick="return false;" style="color:rgba(30,55,70,.4);">评论/查看评论 (Show Comments)</a>
+<!--<a href="#" class="show_duoshuo_comment" onclick="return false;" style="color:rgba(30,55,70,.4);">评论/查看评论 (Show Comments)</a>-->
         <!-- Duoshuo Comment BEGIN -->
         <!-- 多说评论框 BEGIN -->
         <div class="ds-thread" data-thread-key="{{ page.url }}" data-title="{{ page.title }}" data-url="{{ site.url }}{{ page.url }}"></div>
@@ -77,7 +77,7 @@
       <!-- Duoshuo Comment END -->
       {% endif %}
       {% if site.lazy_load_another and site.disqus_username %}
-          <a href="#" class="show_disqus_comment" onclick="return false;" style="color:rgba(30,55,70,.4);">评论/查看评论 (Show Comments)</a>
+<!--<a href="#" class="show_disqus_comment" onclick="return false;" style="color:rgba(30,55,70,.4);">评论/查看评论 (Show Comments)</a>-->
           <div id="disqus_thread"></div>
           <script>
             var disqus_config = function () {
