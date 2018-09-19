@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于
 description: 
 keywords: Zhang Huan, 智能作坊
 comments: true
