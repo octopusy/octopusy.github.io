@@ -7,6 +7,7 @@
 * GitHub：[@octopus](https://github.com/octopusy)
 * 微博: [@octopus](http://weibo.com/octopus)
 * QQ:  583206137
+<!--
 ## Skill Keywords
 
 #### Software Engineer Keywords
@@ -25,4 +26,4 @@
 
 #### 智能作坊---分享人工智能领域资讯和开发技术
 
-![背景图](/assets/images/qrcode.jpg)
+![背景图](/assets/images/qrcode.jpg)-->
