@@ -5,12 +5,14 @@
 ## 联系
 
 * GitHub：[@octopus](https://github.com/octopusy)
-* 微博: [@octopus](http://weibo.com/octopus)
+* 简书: [@octopus](https://www.jianshu.com/u/aee1aeb16c02)
 * QQ:  583206137
+
 <!--
 ## Skill Keywords
 
 #### Software Engineer Keywords
+
 <div class="btn-inline">
     {% for keyword in site.skill_software_keywords %}
     <button class="btn btn-outline" type="button">{{ keyword }}</button>
@@ -18,6 +20,7 @@
 </div>
 
 #### Mobile Developer Keywords
+
 <div class="btn-inline">
     {% for keyword in site.skill_mobile_app_keywords %}
     <button class="btn btn-outline" type="button">{{ keyword }}</button>
