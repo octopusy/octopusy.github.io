@@ -123,6 +123,7 @@ android:alpha的值为0~1之间的数。数字越大，越不透明。1表示完
 
 
 - 在 res/values/styles.xml 文件中加入一个自定义样式，代码如下。
+
 ```
 <!-- item name="android:windowBackground"         设置背景透明度及其颜色值 -->
 <!-- item name="android:windowIsTranslucent"      设置当前Activity是否透明-->
@@ -138,6 +139,7 @@ android:alpha的值为0~1之间的数。数字越大，越不透明。1表示完
 2. 方法二：
 
 - 在Activity的布局xml的根标签中写入透明颜色：
+
 ```
 android:background="#80000000"
 ```
