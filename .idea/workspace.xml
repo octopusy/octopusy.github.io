@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43a1ea45-1ebf-45b0-a275-4febfe9a4af4" name="Default" comment="1:提交配置参数">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-07-01-restart.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020-07-16-reflect.md" afterDir="false" />
+    <list default="true" id="43a1ea45-1ebf-45b0-a275-4febfe9a4af4" name="Default" comment="1:新增年份目录">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-03-20-sdk-developer.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016/2016-03-20-sdk-developer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-05-09-android-sdkVersion.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016/2016-05-09-android-sdkVersion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-29-android-mix.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017/2017-02-29-android-mix.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-02-blog-template.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017/2017-04-02-blog-template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-04-27-thinking.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017/2017-04-27-thinking.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-05-16-permission-apply.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017/2017-05-16-permission-apply.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-06-03-studio-git.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017/2017-06-03-studio-git.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-06-ai-thinking.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017/2017-08-06-ai-thinking.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-06-alone-thinking.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017/2017-08-06-alone-thinking.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-08-15-keep-learning.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017/2017-08-15-keep-learning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-08-06-android8.1-fecture.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-08-06-android8.1-fecture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-08-10-leakCanary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-08-10-leakCanary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-01-activity-view-window.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-01-activity-view-window.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-02-arch.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-02-arch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-03-binder.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-03-binder.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-04-broadcast.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-04-broadcast.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-05-canvas.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-05-canvas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-06-draw.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-06-draw.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-07-event.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-07-event.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-08-eventbus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-08-eventbus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-09-handler.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-09-handler.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-10-intent.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-10-intent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-11-keep-live.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-11-keep-live.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-12-launchmod.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-12-launchmod.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-13-lifecicle.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-13-lifecicle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-14-listview.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-14-listview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-15-okhttp.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-15-okhttp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-16-optimize.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-16-optimize.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-17-push.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-17-push.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-18-questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-18-questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-09-19-version.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-09-19-version.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-03-thinking-transfer.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-12-03-thinking-transfer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-23-job-interview.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019/2019-03-23-job-interview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-02-comiple.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019/2019-04-02-comiple.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-03-transparent.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019/2019-04-03-transparent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-07-16-reflect.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020/2020-07-01-restart.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +103,13 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\github\octopusy.github.io\_posts\2019" />
+      <recent name="E:\github\octopusy.github.io\_posts\2018" />
+      <recent name="E:\github\octopusy.github.io\_posts\2017" />
+      <recent name="E:\github\octopusy.github.io\_posts\2016" />
+      <recent name="E:\github\octopusy.github.io\_posts\2020" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\github\octopusy.github.io\_posts\2020" />
       <recent name="E:\github\octopusy.github.io\_posts" />
@@ -284,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594865661358</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="1:新增年份目录">
+      <created>1594881241901</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1594881241901</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -326,7 +374,8 @@
     <MESSAGE value="1:新增Android透明度设置详解文章" />
     <MESSAGE value="修改文章内容" />
     <MESSAGE value="1:提交配置参数" />
-    <option name="LAST_COMMIT_MESSAGE" value="1:提交配置参数" />
+    <MESSAGE value="1:新增年份目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="1:新增年份目录" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
