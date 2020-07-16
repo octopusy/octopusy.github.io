@@ -5,3 +5,7 @@ _site/
 *~
 .DS_Store
 Gemfile.lock
+/.idea
+/.build
+/.idea/workspace.xml
+/.idea/*
