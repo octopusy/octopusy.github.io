@@ -2,7 +2,7 @@
 layout: page
 title: 关于
 description: 
-keywords: Zhang Huan, 智能作坊
+keywords: Zhang Huan, 8爪鱼作坊
 comments: true
 menu: 关于
 permalink: /about/

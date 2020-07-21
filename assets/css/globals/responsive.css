@@ -60,9 +60,8 @@
     font-size: 0.75em;
   }
   .site-header {
-    border-bottom: none;
-    background: #4183c4;
-    color: #fff
+    padding-bottom: 0;
+    padding-top: 5px;
   }
   .site-header h1, .site-header h1 .octicon {
     font-size: 1em;

@@ -3,10 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="43a1ea45-1ebf-45b0-a275-4febfe9a4af4" name="Default" comment="1:新增年份目录">
       <change afterPath="$PROJECT_DIR$/_posts/2020/2020-07-01-restart.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Android/mpAndroidChart/barchart/mpAndroid-LineChart.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020/2020-07-17-barchart.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020/2020-07-17-barchart.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/article-footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/article-footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-08-06-ai-thinking.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017/2017-08-06-ai-thinking.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/globals/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/globals/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -294,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595302883029</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="1:修改排版">
+      <created>1595314236374</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1595314236374</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -340,7 +350,8 @@
     <MESSAGE value="1:提交配置参数" />
     <MESSAGE value="1:新增年份目录" />
     <MESSAGE value="1:新增图表展示" />
-    <option name="LAST_COMMIT_MESSAGE" value="1:新增图表展示" />
+    <MESSAGE value="1:修改排版" />
+    <option name="LAST_COMMIT_MESSAGE" value="1:修改排版" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
