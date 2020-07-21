@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="43a1ea45-1ebf-45b0-a275-4febfe9a4af4" name="Default" comment="1:新增年份目录">
       <change afterPath="$PROJECT_DIR$/_posts/2020/2020-07-01-restart.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020/2020-07-17-barchart.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Android/mpAndroidChart/barchart/mpAndroid-LineChart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Android/mpAndroidChart/barchart/mpAndroid-LineChart.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020/2020-07-17-barchart.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020/2020-07-17-barchart.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/globals/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/globals/responsive.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,21 +45,22 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="Index&#9;FILE&#9;file://E:/github/octopusy.github.io/index.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/2020" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/Android" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\github\octopusy.github.io\_posts\2020" />
-      <recent name="E:\github\octopusy.github.io\images\Android\mpAndroidChart\barchart" />
-      <recent name="E:\github\octopusy.github.io\_posts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\github\octopusy.github.io\_posts\2019" />
       <recent name="E:\github\octopusy.github.io\_posts\2018" />
       <recent name="E:\github\octopusy.github.io\_posts\2017" />
       <recent name="E:\github\octopusy.github.io\_posts\2016" />
       <recent name="E:\github\octopusy.github.io\_posts\2020" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\octopusy.github.io\assets\images\Android" />
+      <recent name="E:\github\octopusy.github.io\_posts\2020" />
+      <recent name="E:\github\octopusy.github.io\images\Android\mpAndroidChart\barchart" />
+      <recent name="E:\github\octopusy.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -285,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594881565239</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="1:新增图表展示">
+      <created>1595302883029</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1595302883029</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -330,7 +339,8 @@
     <MESSAGE value="修改文章内容" />
     <MESSAGE value="1:提交配置参数" />
     <MESSAGE value="1:新增年份目录" />
-    <option name="LAST_COMMIT_MESSAGE" value="1:新增年份目录" />
+    <MESSAGE value="1:新增图表展示" />
+    <option name="LAST_COMMIT_MESSAGE" value="1:新增图表展示" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
