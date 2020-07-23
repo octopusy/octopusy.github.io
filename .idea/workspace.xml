@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8cf2cbe-f6d0-4ed9-b601-18bb13d980bd" name="Default Changelist" comment="新增BarChart集成">
+      <change afterPath="$PROJECT_DIR$/_posts/2020/2020-05-14-base_language_rule.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_posts/2020/2020-07-16-reflect.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020/2020-07-01-restart.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020/2020-07-01-restart.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +17,12 @@
   </component>
   <component name="ProjectId" id="1f2BkW6HSTbV04GZNS3LCRMGvIM" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/Android/JitPack" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/2020" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\github\octopusy.github.io\assets\images\Android\JitPack" />
       <recent name="E:\github\octopusy.github.io\_posts\2020" />
+      <recent name="E:\github\octopusy.github.io\assets\images\Android\JitPack" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -75,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595472113672</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="新增BarChart集成">
+      <created>1595472293889</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595472293889</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,8 +100,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="新增BarChart集成" />
     <MESSAGE value="新增JitPack制作集成" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增JitPack制作集成" />
+    <MESSAGE value="新增BarChart集成" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增BarChart集成" />
   </component>
 </project>
