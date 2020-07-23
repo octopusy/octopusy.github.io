@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8cf2cbe-f6d0-4ed9-b601-18bb13d980bd" name="Default Changelist" comment="新增BarChart集成">
-      <change afterPath="$PROJECT_DIR$/_posts/2020/2020-06-16-make_jarlib.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_posts/2020/2020-07-16-reflect.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Android/JitPack/jitpack01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Android/JitPack/jitpack02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Android/JitPack/jitpack03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Android/JitPack/jitpack04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Android/JitPack/jitpack05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Android/JitPack/jitpack06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Android/JitPack/jitpack07.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020/2020-07-01-restart.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020/2020-07-01-restart.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595407303635</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="新增JitPack制作集成">
+      <created>1595472113672</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595472113672</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增BarChart集成" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增BarChart集成" />
+    <MESSAGE value="新增JitPack制作集成" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增JitPack制作集成" />
   </component>
 </project>
