@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8cf2cbe-f6d0-4ed9-b601-18bb13d980bd" name="Default Changelist" comment="新增BarChart集成">
-      <change afterPath="$PROJECT_DIR$/_posts/2020/2020-05-14-base_language_rule.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020/2020-07-01-restart.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_posts/2020/2020-07-16-reflect.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020/2020-07-20-rxjava.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595472293889</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="新增代码规范集成">
+      <created>1595478141195</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595478141195</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +110,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增JitPack制作集成" />
     <MESSAGE value="新增BarChart集成" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增BarChart集成" />
+    <MESSAGE value="新增代码规范集成" />
+    <MESSAGE value="新增RxJava篇" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增RxJava篇" />
   </component>
 </project>
