@@ -4,7 +4,8 @@
     <list default="true" id="b8cf2cbe-f6d0-4ed9-b601-18bb13d980bd" name="Default Changelist" comment="新增BarChart集成">
       <change afterPath="$PROJECT_DIR$/_posts/2020/2020-07-01-restart.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_posts/2020/2020-07-16-reflect.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2020/2020-07-20-rxjava.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020/2020-08-20-pay.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020/2020-09-20-rxjava.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,6 +23,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gitee_self\octopusy.github.io\_posts\2020" />
       <recent name="E:\github\octopusy.github.io\_posts\2020" />
       <recent name="E:\github\octopusy.github.io\assets\images\Android\JitPack" />
     </key>
@@ -91,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595478141195</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="新增RxJava篇">
+      <created>1599212729595</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599212729597</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
