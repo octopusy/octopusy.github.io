@@ -15,7 +15,9 @@ permalink: /about/
 ## 联系
 
 * GitHub：[@octopus](https://github.com/octopusy)
+* Gitee:[@octopus](https://gitee.com/octopusy)
 * 简书: [@octopus](https://www.jianshu.com/u/aee1aeb16c02)
+* CSDN: [@octopus](https://blog.csdn.net/zhangyang5023637?spm=1010.2135.3001.5113)
 
 ## Skill Keywords
 
