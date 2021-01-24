@@ -10,7 +10,7 @@ twitter_username: octopus
 github_username:  octopus
 
 favicon: /favicon.ico
-timezone: Asia/ShenZhen
+timezone: Asia/GuangZhou
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
@@ -18,8 +18,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Richard
-organization: XGD 
-location: ShenZhen, China
+organization: Qtopay
+location: GuangZhou, China
 email: 583206137@qq.com
 
 # ---------------- #
