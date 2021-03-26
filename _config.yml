@@ -108,3 +108,5 @@ google:
 # ---------------- #
 skill_software_keywords: [Java, C/C++, Design Patterns]
 skill_mobile_app_keywords: [Android, Kotlin, Framework]
+
+theme: jekyll-theme-cayman
