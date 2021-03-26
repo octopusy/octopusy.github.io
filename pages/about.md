@@ -18,6 +18,8 @@ permalink: /about/
 * Gitee:[@octopus](https://gitee.com/octopusy)
 * 简书: [@octopus](https://www.jianshu.com/u/aee1aeb16c02)
 * CSDN: [@octopus](https://blog.csdn.net/zhangyang5023637?spm=1010.2135.3001.5113)
+* InfoQ [@octopus](https://www.infoq.cn/profile/DE7C13693DB0A5/publish/all)
+* 掘金  [@octopus](https://juejin.cn/user/694547076621550/posts)
 
 ## Skill Keywords
 

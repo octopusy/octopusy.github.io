@@ -1,41 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8cf2cbe-f6d0-4ed9-b601-18bb13d980bd" name="Default Changelist" comment="新增BarChart集成&#10;新增交易和入门">
-      <change afterPath="$PROJECT_DIR$/logo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="b8cf2cbe-f6d0-4ed9-b601-18bb13d980bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016/2016-05-09-android-sdkVersion.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-04-02-blog-template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-04-27-thinking.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017/2017-04-27-thinking.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-05-16-permission-apply.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-08-06-ai-thinking.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-08-06-alone-thinking.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017/2017-08-06-alone-thinking.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017/2017-08-15-keep-learning.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-08-10-leakCanary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-08-10-leakCanary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-01-activity-view-window.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-02-arch.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-03-binder.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-04-broadcast.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-05-canvas.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-06-draw.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-07-event.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-08-eventbus.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-09-handler.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-10-intent.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-11-keep-live.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-12-launchmod.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-13-lifecicle.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-14-listview.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-15-okhttp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-16-optimize.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-17-push.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-18-questions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-09-19-version.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018/2018-12-03-thinking-transfer.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018/2018-12-03-thinking-transfer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019/2019-03-23-job-interview.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020/2020-05-14-base_language_rule.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020/2020-05-14-base_language_rule.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -189,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616643328380</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="新增BarChart集成&#10;新增交易和入门">
+      <created>1616719767482</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1616719767482</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
