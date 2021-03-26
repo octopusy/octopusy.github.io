@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8cf2cbe-f6d0-4ed9-b601-18bb13d980bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5b7152f4-567e-4166-9f74-21a1b2def573" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,20 +13,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1f2BkW6HSTbV04GZNS3LCRMGvIM" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\gitee_self\octopusy.github.io" />
-      <recent name="E:\gitee_self\octopusy.github.io\_posts\2020" />
-      <recent name="E:\github\octopusy.github.io\_posts\2020" />
-      <recent name="E:\github\octopusy.github.io\assets\images\Android\JitPack" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,193 +32,7 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="b8cf2cbe-f6d0-4ed9-b601-18bb13d980bd" name="Default Changelist" comment="" />
-      <created>1595406450974</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1595406450974</updated>
-    </task>
-    <task id="LOCAL-00001" summary="新增BarChart集成">
-      <created>1595406511421</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1595406511421</updated>
-    </task>
-    <task id="LOCAL-00002" summary="新增BarChart集成">
-      <created>1595406649530</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1595406649530</updated>
-    </task>
-    <task id="LOCAL-00003" summary="新增BarChart集成">
-      <created>1595407303635</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1595407303635</updated>
-    </task>
-    <task id="LOCAL-00004" summary="新增JitPack制作集成">
-      <created>1595472113672</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1595472113672</updated>
-    </task>
-    <task id="LOCAL-00005" summary="新增BarChart集成">
-      <created>1595472293889</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1595472293889</updated>
-    </task>
-    <task id="LOCAL-00006" summary="新增代码规范集成">
-      <created>1595478141195</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1595478141195</updated>
-    </task>
-    <task id="LOCAL-00007" summary="新增RxJava篇">
-      <created>1599212729595</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1599212729597</updated>
-    </task>
-    <task id="LOCAL-00008" summary="新增BarChart集成&#10;新增交易和Android入门文章">
-      <created>1607341802247</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1607341802247</updated>
-    </task>
-    <task id="LOCAL-00009" summary="新增BarChart集成&#10;新增交易和入门">
-      <created>1607477444334</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1607477444334</updated>
-    </task>
-    <task id="LOCAL-00010" summary="新增关于入口模块">
-      <created>1607939547493</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1607939547493</updated>
-    </task>
-    <task id="LOCAL-00011" summary="新增BarChart集成&#10;新增交易和入门">
-      <created>1611464920009</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1611464920009</updated>
-    </task>
-    <task id="LOCAL-00012" summary="新增BarChart集成&#10;新增交易和入门">
-      <created>1611465040906</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1611465040906</updated>
-    </task>
-    <task id="LOCAL-00013" summary="新增BarChart集成&#10;新增交易和入门">
-      <created>1611465427462</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1611465427462</updated>
-    </task>
-    <task id="LOCAL-00014" summary="修改配置">
-      <created>1611465969498</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1611465969498</updated>
-    </task>
-    <task id="LOCAL-00015" summary="新增BarChart集成&#10;新增交易和入门">
-      <created>1616643328379</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1616643328380</updated>
-    </task>
-    <task id="LOCAL-00016" summary="新增BarChart集成&#10;新增交易和入门">
-      <created>1616719767482</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1616719767482</updated>
-    </task>
-    <task id="LOCAL-00017" summary="新增BarChart集成&#10;新增交易和入门">
-      <created>1616724705530</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1616724705530</updated>
-    </task>
-    <task id="LOCAL-00018" summary="新增BarChart集成&#10;新增交易和入门">
-      <created>1616727624508</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1616727624508</updated>
-    </task>
-    <task id="LOCAL-00019" summary="新增BarChart集成&#10;新增交易和入门">
-      <created>1616728854907</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1616728854907</updated>
-    </task>
-    <task id="LOCAL-00020" summary="新增BarChart集成&#10;新增交易和入门">
-      <created>1616729279536</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1616729279536</updated>
-    </task>
-    <task id="LOCAL-00021" summary="新增BarChart集成&#10;新增交易和入门">
-      <created>1616729397961</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1616729397961</updated>
-    </task>
-    <task id="LOCAL-00022" summary="新增BarChart集成&#10;新增交易和入门">
-      <created>1616729819725</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1616729819725</updated>
-    </task>
-    <task id="LOCAL-00023" summary="新增BarChart集成&#10;新增交易和入门">
-      <created>1616729906112</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1616729906112</updated>
-    </task>
-    <task id="LOCAL-00024" summary="新增BarChart集成&#10;新增交易和入门">
-      <created>1616730082931</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1616730082931</updated>
-    </task>
-    <task id="LOCAL-00025" summary="新增BarChart集成&#10;新增交易和入门">
-      <created>1616730703809</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1616730703809</updated>
-    </task>
-    <option name="localTasksCounter" value="26" />
     <servers />
-  </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -249,23 +49,10 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="新增JitPack制作集成" />
-    <MESSAGE value="新增BarChart集成" />
-    <MESSAGE value="新增代码规范集成" />
-    <MESSAGE value="新增RxJava篇" />
-    <MESSAGE value="新增BarChart集成&#10;新增交易和Android入门文章" />
-    <MESSAGE value="新增关于入口模块" />
-    <MESSAGE value="修改配置" />
-    <MESSAGE value="新增BarChart集成&#10;新增交易和入门" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增BarChart集成&#10;新增交易和入门" />
   </component>
 </project>

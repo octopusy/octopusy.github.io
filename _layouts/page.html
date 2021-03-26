@@ -1,11 +1,9 @@
 ---
-layout:           default
+layout: default
 layout: default
 ---
 
-<div id="content">
-    {{ content }}
-</div>
+
 <section class="collection-head small geopattern" data-pattern-id="{{ page.title | truncate: 15}}">
     <div class="container">
         <div class="collection-title">
@@ -37,6 +35,7 @@ layout: default
         </div>
         <div class="column one-third">
             {% include sidebar-search.html %}
+            <!--todo 待完善页面模块-->
             {% include sidebar-popular-repo.html %}
         </div>
     </div>
