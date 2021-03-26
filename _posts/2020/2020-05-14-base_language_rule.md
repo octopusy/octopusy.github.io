@@ -3,7 +3,7 @@ layout:     post
 
 title:     代码规范和团队协作规章
 
-category:   [Android]
+category:   [协同开发]
 
 description: 代码规范
 

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      我们慢慢变成自己曾讨厌的样子
-category:   [思考]
+category:   [碎碎念]
 description: 思考
 keywords: 思考
 ---

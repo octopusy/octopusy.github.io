@@ -9,7 +9,7 @@ url: "https://octopusy.github.io/" # the base hostname & protocol for your site,
 twitter_username: octopus
 github_username:  octopus
 
-favicon: /favicon.ico
+favicon: /logo.jpg
 timezone: Asia/GuangZhou
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -20,7 +20,7 @@ side_bar_repo_limit: 5
 author: Richard
 organization: Qtopay
 location: GuangZhou, China
-email: 583206137@qq.com
+email: zhangyang5547662@126.com
 
 # ---------------- #
 #    Navigation    #
@@ -106,6 +106,5 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, C++, Design Patterns]
-skill_mobile_app_keywords: [Android, Kotlin]
-skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
+skill_software_keywords: [Java, C/C++, Design Patterns]
+skill_mobile_app_keywords: [Android, Kotlin, Framework]

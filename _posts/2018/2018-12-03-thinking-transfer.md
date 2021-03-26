@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      思维转换
-category:   [思考]
+category:   [碎碎念]
 description: 思考
 keywords: 思考
 ---

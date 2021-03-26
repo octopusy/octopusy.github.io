@@ -3,7 +3,7 @@ layout:     post
 
 title:     LeakCanary  Android内存泄漏检测利器
 
-category:   [Android]
+category:   [第三方开源框架]
 
 description: LeakCanary 内存检测
 
