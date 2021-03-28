@@ -2,7 +2,7 @@
 layout: page
 title: 关于
 description: 
-keywords: Zhang Huan, 八爪章鱼
+keywords: Zhang Huan, 搬砖的章鱼
 comments: true
 menu: 关于
 permalink: /about/

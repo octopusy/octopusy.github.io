@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-title: 八爪章鱼
+title: 搬砖的章鱼
 description: > # this means to ignore newlines until "baseurl:"
   专注于Android软件开发的码农,带你深入分析Android系统.目前的专题有Android编译系统,Binder机制，单元测试，深入理解Activity启动流程。
 baseurl: "https://octopusy.github.io/" # the subpath of your site, e.g. /blog
