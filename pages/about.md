@@ -14,6 +14,7 @@ permalink: /about/
 
 ## 联系
 
+* 语雀：[@搬砖的章鱼](https://www.yuque.com/richard-qvk1o)
 * GitHub：[@octopus](https://github.com/octopusy)
 * Gitee:[@octopus](https://gitee.com/octopusy)
 * 简书: [@octopus](https://www.jianshu.com/u/aee1aeb16c02)
