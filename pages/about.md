@@ -17,10 +17,9 @@ permalink: /about/
 ## 联系
 
 * 语雀：[@搬砖的章鱼](https://www.yuque.com/richard-qvk1o)
+
 * 简书: [@octopus](https://www.jianshu.com/u/aee1aeb16c02)
-* CSDN: [@octopus](https://blog.csdn.net/zhangyang5023637?spm=1010.2135.3001.5113)
-* InfoQ [@octopus](https://www.infoq.cn/profile/DE7C13693DB0A5/publish/all)
-* 掘金  [@octopus](https://juejin.cn/user/694547076621550/posts)
+
 
 ## Skill Keywords
 
@@ -48,4 +47,8 @@ permalink: /about/
 </div>-->
 
 <!--GitHub：[@octopus](https://github.com/octopusy)
-   Gitee:[@octopus](https://gitee.com/octopusy)-->
+   Gitee:[@octopus](https://gitee.com/octopusy)
+   * CSDN: [@octopus](https://blog.csdn.net/zhangyang5023637?spm=1010.2135.3001.5113)
+* InfoQ [@octopus](https://www.infoq.cn/profile/DE7C13693DB0A5/publish/all)
+* 掘金  [@octopus](https://juejin.cn/user/694547076621550/posts)
+   -->
